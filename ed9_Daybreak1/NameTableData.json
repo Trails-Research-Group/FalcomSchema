@@ -11,7 +11,6 @@
 	"flag2": "ptr_str_utf8",
 	"unk_u64_2": "u64",
 	"unknown_text": "ptr_str_utf8",
-	"full_name": "ptr_str_utf8"
-		
+	"full_name": "ptr_str_utf8"		
     }
 }
