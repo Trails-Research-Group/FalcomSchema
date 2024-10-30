@@ -1,7 +1,8 @@
 {
     "version": 1,
     "schema": {
-        "id": "u64",
+        "id": "u32",
+        "uint1": "u32",
         "text": "ptr_str_utf8"
     }
 }
