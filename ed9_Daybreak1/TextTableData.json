@@ -1,7 +1,7 @@
 {
     "version": 1,
     "schema": {
-        "id": "s64",
+        "key": "ptr_str_utf8",
         "value": "ptr_str_utf8"
     }
 }
