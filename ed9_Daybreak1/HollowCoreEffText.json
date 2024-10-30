@@ -2,6 +2,6 @@
     "version": 1,
     "schema": {
         "id": "u64",
-        "text": "ptr_str_utf8"
+        "effect_description": "ptr_str_utf8"
     }
 }
