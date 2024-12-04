@@ -24,13 +24,13 @@
             "unlock_2": "ptr_str_utf8",
             "unlock_3": "ptr_str_utf8",
             "unlock_4": "ptr_str_utf8",
-                "materials": {
-                    "repeat": 4,
-                    "type": {
-                        "id": "u32",
-                        "req_amount": "u32"
-                      }
-                  },
+            "materials": {
+                "repeat": 4,
+                "type": {
+                    "id": "u32",
+                    "req_amount": "u32"
+                 }    
+             },       
             "empty1": "u64",
             "empty2": "u64",    
             "empty3": "u64",
@@ -39,7 +39,7 @@
                 "type": {
                     "id": "u32",
                     "value": "u32"
-            }
-        }
+                }
+            }   
         }
     }
