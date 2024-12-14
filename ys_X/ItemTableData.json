@@ -6,7 +6,7 @@
         "name": "ptr_str_utf8",
         "desc_1": "ptr_str_utf8",
         "desc_2": "ptr_str_utf8",
-        "unk_u32_1": "u32",
+        "sell_price": "u32",
         "type": "u16",
         "unk_u16_1": "u16",
         "unk_u32_2": "u32",
