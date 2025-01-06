@@ -1,0 +1,56 @@
+{
+    "version": 1,
+    "schema": {
+        "id": "u32",
+        "icon": "u32",
+        "name": "ptr_str_utf8",
+        "short_desc": "ptr_str_utf8",
+        "long_desc": "ptr_str_utf8",
+        "int2": "u32",
+        "type": "s16",
+        "short1": "s16",
+        "int3": "u32",
+        "maybe_unused0": {
+            "repeat": 3,
+            "type": {
+                "value": "u32"
+            }
+        },
+        "byte0": "u8",
+        "byte1": "u8",
+        "byte2": "u8",
+        "byte3": "u8",
+        "int4": "u32",
+        "byte4": "u8",
+        "byte5": "u8",
+        "maybe_unused1": {
+            "repeat": 6,
+            "type": {
+                "value": "u8"
+            }
+        },
+        "obtain_type": "ptr_str_utf8",
+        "obtain_amount": "f32",
+        "int5": "u32",
+        "hp": "s32",
+        "str": "s32",
+        "break": "s32",
+        "def": "s32",
+        "vit": "s32",
+        "luck": "s32",
+        "crit": "s32",
+        "eva": "s32",
+        "dmg": "s32",
+        "dmg_received": "s32",
+        "effects": {
+            "repeat": 4,
+            "type": {
+                "id": "u32",
+                "value": "f32"
+            }
+        },
+        "text4": "ptr_str_utf8",
+        "int8": "u32",
+        "int9": "u32"
+    }
+}
