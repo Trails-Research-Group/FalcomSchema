@@ -1,15 +1,15 @@
 {
     "version": 1,
     "schema": {
-        "id": "u32",
-        "unk0": "u32",
-        "item_id": "u32",
+        "recipe_id": "u32",
+        "unk_u32": "u32",
+        "item_id": "u32",	
         "materials": {
             "repeat": 6,
             "type": {
-                "material_id": "u32",
+                "id": "u32",
                 "req_amount": "u32"
-            }
-        }
+            }  
+        }			
     }
 }
