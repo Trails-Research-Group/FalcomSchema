@@ -2,18 +2,18 @@
     "version": 1,
     "schema": {
         "id": "u32",
-        "int1": "s32",
+        "unk_u32_1": "u32",
         "name": "ptr_str_utf8",
-        "long1": "s64",
-        "long2": "s64",
-        "file1": "ptr_str_utf8",
-        "file2": "ptr_str_utf8",
-        "file3": "ptr_str_utf8",
-        "file4": "ptr_str_utf8",
-        "file5": "ptr_str_utf8",
-        "file6": "ptr_str_utf8",
-        "int2": "u32",
-        "int3": "u32",
-        "unk_txt_offset": "ptr_str_utf8"
+        "unk_u64_1": "u64",
+        "unk_u64_2": "u64",
+        "model": "ptr_str_utf8",
+        "script": "ptr_str_utf8",
+        "face": "ptr_str_utf8",
+        "active_voice_art": "ptr_str_utf8",
+        "ship_talk_art": "ptr_str_utf8",
+        "ship_feast_art": "ptr_str_utf8",
+        "unk_u32_2": "u32",
+        "unk_u32_3": "u32",
+        "text": "ptr_str_utf8"				
     }
 }

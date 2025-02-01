@@ -1,13 +1,14 @@
 {
     "version": 1,
     "schema": {
-        "character_id": "u32",
-        "int0": "s32",
-        "int1": "u32",
-        "int2": "u32",
-        "arr0": "arr_u32",
-        "int3": "u32",
-        "arr1": "arr_u32",
-        "int4": "u32"
+        "id": "u32",
+        "unk_u32_1": "u32",
+        "unk_u32_2": "u32",
+        "unk_u32_3": "u32",
+        "array1": "arr_u32",
+        "unk_u32_4": "u32",
+        "array2": "arr_u32",
+        "unk_u32_5": "u32"
+        
     }
 }
