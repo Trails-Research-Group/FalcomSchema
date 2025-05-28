@@ -1,0 +1,19 @@
+{
+    "version": 1,
+    "schema": {
+        "character_id": "u32",
+        "quartz_line": "u32",
+        "unknown_u32": "u32",
+        "unknown_u16": "u16",
+        "orbment_slots": {
+            "repeat": 3,
+            "type": {
+                "element": "u16",
+                "empty": "u16",
+                "open_cost": "u16",
+                "ep_boost": "u16"
+                 }
+             },
+        "total_line_slots": "u16"
+    }
+}
